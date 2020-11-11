@@ -1,0 +1,34 @@
+# Your Name or Company
+title: Dani Jardim
+
+# Description of your website. This is used for social sharing.
+description:  Portifólio Desenvolvedora Dani Jardim
+
+# A brief blurb about yourself
+content: Oi, eu sou a Dani! Formada em design gráfico e fotografia, trabalhei com criação direta em agências de publicidade, estúdios de fotografia e freelancers por mais de 10 anos. <br> No ano de 2019 conclui o tecnólogo de Sistemas Para Internet pela FATEC e agora estou em busca de uma vaga como Desenvolvedora Frontend. <br> Atualmente estou focando meu tempo em estudos, concentrando principalmente em javaScript. Moro em São Paulo, as minhas stacks são Html5, CSS3, JavaScript e React.js.
+
+# Add your social links
+social:
+  - platform: Github
+    url: https://github.com/Dani-jardim
+  - platform: Linkedin
+    url: https://www.linkedin.com/in/daniela-jardim/
+  - platform: Behance
+    url: http://behance.net/danijardim
+  - platform: Twitter
+    url: ttps://twitter.com/danijardim00
+
+# General settings
+# url: http://brianmaierjr.github.com/uni
+# baseurl: "/uni" 
+markdown: kramdown
+sharing_image: share.jpg
+google_analytics: "UA-58263416-1" # google analytics tracking
+
+#### LAYOUT OPTIONS #####
+
+# Half layout
+half_side: right
+
+# Full layout
+full_text_position: right # left, right or center
